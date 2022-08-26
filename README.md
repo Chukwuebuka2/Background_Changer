@@ -8,7 +8,7 @@ will enable us to change the background of the site.
 Click on the change color button and watch the background change.
 
 
-[Here is a live demo of this project](https://github.com/Chukwuebuka2/Background_Changer) 
+[Here is a live demo of this project](https://chukwuebuka2.github.io/Background_Changer/) 
 
 
 
